@@ -1,1 +1,1 @@
-agriffis mod of kinesis
+Aron Griffis's Preonic layout
