@@ -17,6 +17,6 @@ KC_HOME,  KC_F1,       KC_F2,    KC_F3,     KC_F4,    KC_F5,    KC_F6,    KC_F7,
 XXXXXXX,  XXXXXXX,     KC_UP,    XXXXXXX,   XXXXXXX,  XXXXXXX,  KC_MENU,  KC_RGUI,  KC_SLCK,  KC_PAUS,   KC_PSCR,        KC_PGUP,
 _______,  KC_LEFT,     KC_DOWN,  KC_RIGHT,  KC_F11,   KC_F12,   KC_LEFT,  KC_DOWN,  KC_UP,    KC_RIGHT,  XXXXXXX,        KC_PGDN,
 _______,  KC_GRV,      KC_WBAK,  KC_WFWD,   KC_INS,   XXXXXXX,  XXXXXXX,  XXXXXXX,  XXXXXXX,  XXXXXXX,   _______,        _______,
-_______,  XXXXXXX,     _______,  _______,   XXXXXXX,  XXXXXXX,  XXXXXXX,  XXXXXXX,  XXXXXXX,  XXXXXXX,   XXXXXXX,        MO(1)
+_______,  XXXXXXX,     _______,  _______,   KC_DEL,   XXXXXXX,  XXXXXXX,  XXXXXXX,  XXXXXXX,  XXXXXXX,   XXXXXXX,        _______
 
 )};
