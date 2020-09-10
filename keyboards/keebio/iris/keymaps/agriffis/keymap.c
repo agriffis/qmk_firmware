@@ -17,6 +17,6 @@ KC_HOME,  KC_F1,       KC_F2,    KC_F3,     KC_F4,                 KC_F5,    _  
 RGB_MOD,  XXXXXXX,     KC_UP,    XXXXXXX,   RGB_TOG,               XXXXXXX,  _         _         KC_MENU,  KC_RGUI,              KC_SLCK,  KC_PAUS,   KC_PSCR,        KC_PGUP,
 _______,  KC_LEFT,     KC_DOWN,  KC_RIGHT,  KC_F11,                KC_F12,   _         _         KC_LEFT,  KC_DOWN,              KC_UP,    KC_RIGHT,  XXXXXXX,        KC_PGDN,
 _______,  KC_GRV,      KC_WBAK,  KC_WFWD,   KC_INS,                XXXXXXX,  XXXXXXX,  XXXXXXX,  XXXXXXX,  XXXXXXX,              XXXXXXX,  XXXXXXX,   _______,        _______,
-_         _            _         _          MOD_LGUI,              KC_DEL,   XXXXXXX,  XXXXXXX,  XXXXXXX,  MOD_LALT              _         _          _               _
+_         _            _         _          KC_LGUI,               KC_DEL,   XXXXXXX,  XXXXXXX,  XXXXXXX,  KC_LALT               _         _          _               _
 
 )};
