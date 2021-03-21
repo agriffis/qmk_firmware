@@ -1,8 +1,8 @@
 #include QMK_KEYBOARD_H
 
 enum encoder_names {
-  _LEFT,
-  _RIGHT,
+    _LEFT,
+    _RIGHT,
 };
 
 enum my_keycodes {
@@ -15,8 +15,8 @@ enum my_keycodes {
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [0] = LAYOUT(
         KC_NXTD,  KC_PAUSE,  S(KC_NXTD),
-        KC_MUTE,  KC_ESC,   KC_MICM,
-        KC_LEFT,  KC_SPC,   KC_RGHT
+        KC_MUTE,  KC_PSCR,   KC_MICM,
+        KC_MPRV,  KC_MPLY,   KC_MNXT
     ),
 };
 
