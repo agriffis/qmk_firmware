@@ -16,7 +16,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [0] = LAYOUT(
         KC_NXTD,  KC_PAUSE,  S(KC_NXTD),
         KC_MUTE,  KC_PSCR,   KC_MICM,
-        KC_MPRV,  KC_MPLY,   KC_MNXT
+        KC_WBAK,  KC_MPLY,   KC_WFWD
     ),
 };
 
