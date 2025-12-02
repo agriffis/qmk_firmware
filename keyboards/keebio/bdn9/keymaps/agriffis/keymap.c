@@ -21,9 +21,8 @@ void encoder_update_user(uint8_t index, bool counter_clockwise) {
     if (index == _LEFT) {
         tap_code(counter_clockwise ? KC_VOLD : KC_VOLU);
     }
-    /*
     else if (index == _RIGHT) {
-        tap_code(counter_clockwise ? KC_MICD : KC_MICU);
+        /* YouTube speed control */
+        tap_code16(counter_clockwise ? S(KC_COMMA) : S(KC_DOT));
     }
-    */
 }
